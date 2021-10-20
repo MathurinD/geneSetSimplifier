@@ -1,0 +1,5 @@
+Gene sets used for enrichment are highly redundant and interpreting them is a tedious task.
+
+This package provides graph plotting functions for GO annotation (that work for any DAG annotation) and offers options to simplify the interpretation.
+
+Developped by Mathurin Dorel
